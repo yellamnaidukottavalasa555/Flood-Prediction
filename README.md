@@ -1,0 +1,2 @@
+# flood-prediction
+Floods are the most destructive natural disasters which are highly complex. The research on flood prediction has been contributing to risk reduction, minimizing loss of human lives and reducing the property damage associated with floods. Here a dataset related to flood prediction has been considered which consists of features of every month average rainfall rate which are obtained from IMD, and used the Machine Learning techniques such as regression and classification to predict whether the flood occurs or not for upcoming years.
